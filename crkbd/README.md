@@ -12,6 +12,8 @@
 
 To download a layout for [VIA](https://www.caniusevia.com/), check the [layouts folder](./layouts/)
 
+The wireless version uses ZMK, its configuration is [in this repository](https://github.com/tommyblue/zmk-corne/)
+
 ### Layer 0
 
 ![Layer 0](./assets/0.png "Layer 0")
